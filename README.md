@@ -1,2 +1,2 @@
-<h1>hello-world</h1>
-Hello World project in GitHub Guides
+<h1>Machine Learning</h1>
+Machine Learning related repository for individual study.
